@@ -21,7 +21,6 @@
 	{"name":"코주부한심.png", 		"keywords":["코주부한심"],						"tags":["코주부"]},
 
 
-
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
 	{"name":"리스쿠마.png", 		"keywords":["리스쿠마", "쿠마"],						"tags":["뿌테"]},
 	{"name":"링고.png", 		"keywords":["링고"],						"tags":["뿌테"]},
