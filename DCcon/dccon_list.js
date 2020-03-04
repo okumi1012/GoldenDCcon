@@ -14,6 +14,7 @@
 	{"name":"머뎅이.png", 		"keywords":["머뎅이"],						"tags":["추골"]},
   {"name":"궁뎅이.png", 		"keywords":["궁뎅이"],						"tags":["추골"]},
 	{"name":"테징징.jpg", 		"keywords":["테징징"],						"tags":["추골"]},
+	
 	{"name":"마참내.png", 		"keywords":["마참내"],						"tags":["달걀"]},
 	{"name":"손도깔끔.png", 		"keywords":["손도깔끔"],						"tags":["달걀"]},
 	{"name":"즐겁다.png", 		"keywords":["즐겁다"],						"tags":["달걀"]},
