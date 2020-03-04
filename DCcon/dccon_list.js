@@ -14,6 +14,12 @@
 	{"name":"머뎅이.png", 		"keywords":["머뎅이"],						"tags":["추골"]},
   {"name":"궁뎅이.png", 		"keywords":["궁뎅이"],						"tags":["추골"]},
 	{"name":"테징징.jpg", 		"keywords":["테징징"],						"tags":["추골"]},
+	{"name":"마참내.png", 		"keywords":["마참내"],						"tags":["달걀"]},
+	{"name":"손도깔끔.png", 		"keywords":["손도깔끔"],						"tags":["달걀"]},
+	{"name":"즐겁다.png", 		"keywords":["즐겁다"],						"tags":["달걀"]},
+	{"name":"시간절약.png", 		"keywords":["시간절약"],						"tags":["달걀"]},
+	{"name":"코주부한심.png", 		"keywords":["코주부한심"],						"tags":["코주부"]},
+
 
 
   {"name":"드라코.png", 		"keywords":["드라코"],						"tags":["뿌테"]},
