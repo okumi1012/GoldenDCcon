@@ -1,31 +1,10 @@
 ﻿dcConsData = [
-	{"name":"추골헐.png", 		"keywords":["추골헐"],						"tags":["추골"]},
-	{"name":"추골하하.png", 		"keywords":["추골하하"],						"tags":["추골"]},
-	{"name":"골든빳다죠.png", 		"keywords":["골든빳다죠"],						"tags":["추골"]},
-	{"name":"초골.gif", 		"keywords":["초골"],						"tags":["추골"]},
-	{"name":"골뎅깜놀.gif", 		"keywords":["골뎅깜놀", "추골깜놀"],						"tags":["추골"]},
-	{"name":"골뎅깜놀2.gif", 		"keywords":["골뎅깜놀2", "추골깜놀2"],						"tags":["추골"]},
-	{"name":"골뎅오우야.gif", 		"keywords":["골뎅오우야", "오우야", "ㅗㅜㅑ"],						"tags":["추골"]},
-	{"name":"골뎅자본.png", 		"keywords":["골뎅자본"],						"tags":["추골"]},
-	{"name":"골뎅딸딸.png", 		"keywords":["골뎅딸딸"],						"tags":["추골"]},
-	{"name":"골뎅행복.png", 		"keywords":["골뎅행복"],						"tags":["추골"]},
-	{"name":"골하.gif", 		"keywords":["골하","우리골안녕"],						"tags":["추골"]},
-	{"name":"커뎅챤.png", 		"keywords":["커뎅챤"],						"tags":["추골"]},
-	{"name":"머뎅이.png", 		"keywords":["머뎅이"],						"tags":["추골"]},
-  {"name":"궁뎅이.png", 		"keywords":["궁뎅이"],						"tags":["추골"]},
-	{"name":"테징징.jpg", 		"keywords":["테징징"],						"tags":["추골"]},
-	{"name":"골짝댄스.gif", 		"keywords":["관짝골뎅", "골짝댄스", "관짝댄스"],						"tags":["추골"]},
-
-
 	{"name":"마참내.png", 		"keywords":["마참내"],						"tags":["달걀"]},
 	{"name":"손도깔끔.png", 		"keywords":["손도깔끔"],						"tags":["달걀"]},
 	{"name":"즐겁다.png", 		"keywords":["즐겁다"],						"tags":["달걀"]},
 	{"name":"시간절약.png", 		"keywords":["시간절약"],						"tags":["달걀"]},
 	{"name":"코주부한심.png", 		"keywords":["코주부한심"],						"tags":["코주부"]},
-
-
-
-  {"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
+	{"name":"헤으윽.png", 		"keywords":["헤으윽"],						"tags":[""]},
 	{"name":"산소답답.png", 		"keywords":["산소답답"],						"tags":["산소미"]},
 	{"name":"수동발전.png", 		"keywords":["수동발전"],						"tags":["산소미"]},
 	{"name":"야한거.png", 		"keywords":["야한거"],						"tags":[""]},
@@ -39,23 +18,20 @@
 	{"name":"버스딸딸.gif", 		"keywords":["버스딸딸"],						"tags":["버심"]},
 	{"name":"퍄.gif", 		"keywords":["퍄"],						"tags":["퍄"]},
 
-
 	{"name":"파킨2.gif", 		"keywords":["파킨2"],						"tags":["해축"]},
 	{"name":"초크바.gif", 		"keywords":["초크바"],						"tags":["해축"]},
 	{"name":"탄식.gif", 		"keywords":["탄식"],						"tags":["해축"]},
 	{"name":"시공편안.gif", 		"keywords":["편안2"],						"tags":["게비스콘"]},
 	{"name":"뻐큐.gif", 		"keywords":["뻐큐", "ㅗ"],						"tags":["해축"]},
 
-{"name":"지루전갈.gif", 		"keywords":["지루전갈","지루"],						"tags":["해축"]},
-{"name":"호렌지.gif", 		"keywords":["호렌지"],						"tags":["해축"]},
-{"name":"황가드.gif", 		"keywords":["황가드"],						"tags":["해축"]},
-{"name":"황가드2.gif", 		"keywords":["황가드2"],						"tags":["해축"]},
-{"name":"맹구.png", 		"keywords":["맹구"],						"tags":["해축"]},
-{"name":"맹시.png", 		"keywords":["맹시"],						"tags":["해축"]},
-{"name":"개집.png", 		"keywords":["개집"],						"tags":["해축"]},
-{"name":"토토애.png", 		"keywords":["토토애"],						"tags":["해축"]},
-
-
+	{"name":"지루전갈.gif", 		"keywords":["지루전갈","지루"],						"tags":["해축"]},
+	{"name":"호렌지.gif", 		"keywords":["호렌지"],						"tags":["해축"]},
+	{"name":"황가드.gif", 		"keywords":["황가드"],						"tags":["해축"]},
+	{"name":"황가드2.gif", 		"keywords":["황가드2"],						"tags":["해축"]},
+	{"name":"맹구.png", 		"keywords":["맹구"],						"tags":["해축"]},
+	{"name":"맹시.png", 		"keywords":["맹시"],						"tags":["해축"]},
+	{"name":"개집.png", 		"keywords":["개집"],						"tags":["해축"]},
+	{"name":"토토애.png", 		"keywords":["토토애"],						"tags":["해축"]},
 
 	{"name":"sss.png", 		"keywords":["sss"],						"tags":["트위치"]},
 	{"name":"zzz.png", 		"keywords":["zzz"],						"tags":["트위치"]},
@@ -77,7 +53,7 @@
 	{"name":"페페싸닉.gif", 		"keywords":["페페싸닉"],						"tags":["개구리", "페페"]},
 	{"name":"페페팝콘.gif", 		"keywords":["페페팝콘"],						"tags":["개구리", "페페"]},
 
-  {"name":"칠레감동.gif", 		"keywords":["칠레감동"],						"tags":["칠레"]},
+  	{"name":"칠레감동.gif", 		"keywords":["칠레감동"],						"tags":["칠레"]},
 	{"name":"칠레감탄.gif", 		"keywords":["칠레감탄"],						"tags":["칠레"]},
 	{"name":"칠레감탄2.gif", 		"keywords":["칠레감탄2"],						"tags":["칠레"]},
 	{"name":"칠레감탄3.gif", 		"keywords":["칠레감탄3"],						"tags":["칠레"]},
@@ -143,7 +119,7 @@
 	{"name":"노랭이1.gif", 		"keywords":["노랭이"],						"tags":[]},
 	{"name":"노랭이2.gif", 		"keywords":["노랭이2"],						"tags":[]},
 	{"name":"닉놀람.gif", 		"keywords":["닉놀람"],						"tags":["주토피아", "움짤"]},
-  {"name":"닉댄스.gif", 		"keywords":["닉댄스"],						"tags":["주토피아", "움짤"]},
+  	{"name":"닉댄스.gif", 		"keywords":["닉댄스"],						"tags":["주토피아", "움짤"]},
 	{"name":"닉띠용.gif", 		"keywords":["닉띠용"],						"tags":["주토피아", "움짤"]},
 	{"name":"닉주디.gif", 		"keywords":["닉주디"],						"tags":["주토피아", "움짤"]},
 	{"name":"닉주디2.gif", 		"keywords":["닉주디2"],						"tags":["주토피아", "움짤"]},
